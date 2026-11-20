@@ -1,9 +1,12 @@
 # ReSkate
 
 > **Modified version.** This is a fork of [ReSkate](https://github.com/Dingo-Shenanigans/ReSkate) Build 20261116 by
-> MysteriousMagexX, changed on 2026-11-20. It adds one change: the game can stream 65,532 textures at once instead of
-> 32,764, and a full texture table no longer freezes the game (upstream pull request #476). Everything else is
-> ReSkate's own. It plays with players and servers on ReSkate Build 20261116.
+> MysteriousMagexX, changed on 2026-11-20. It adds three changes that are open as upstream pull requests:
+> - #476: the game can stream 65,532 textures at once instead of 32,764, and a full texture table no longer freezes it;
+> - #477: more than 8,192 installed items no longer leave every skater in the game's default clothes;
+> - #470: mods that add menu entries to the same UI assets (Skaterize, Setup Shop) load together.
+>
+> Everything else is ReSkate's own. It plays with players and servers on ReSkate Build 20261116.
 
 play it offline, host your own lobbies and dedicated servers, and mod it.
 the launcher, the runtime that loads into the game, and the dedicated server.
