@@ -1,5 +1,10 @@
 # ReSkate
 
+> **Modified version.** This is a fork of [ReSkate](https://github.com/Dingo-Shenanigans/ReSkate) Build 20261116 by
+> MysteriousMagexX, changed on 2026-11-20. It adds one change: the game can stream 65,532 textures at once instead of
+> 32,764, and a full texture table no longer freezes the game (upstream pull request #476). Everything else is
+> ReSkate's own. It plays with players and servers on ReSkate Build 20261116.
+
 play it offline, host your own lobbies and dedicated servers, and mod it.
 the launcher, the runtime that loads into the game, and the dedicated server.
 
